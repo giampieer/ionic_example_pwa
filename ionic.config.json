@@ -1,5 +1,6 @@
 {
   "name": "docPPT_PWA",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {}
 }
